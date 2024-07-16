@@ -1,7 +1,4 @@
 this is the file
 this is file.txt file
-<<<<<<< HEAD
 2nd commit
-=======
 hiii 
->>>>>>> 759a4c1c6f6735158e0dc1b2511cd2085e28a94d
